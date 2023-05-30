@@ -5,5 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: simpleprint
-        run: echo "Hello World!"
+        run: |
+            echo "Hello World!"
+            echo "maza aa gaya"
       
