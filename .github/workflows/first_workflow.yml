@@ -1,0 +1,9 @@
+name: Ayan
+on: workflow_dispatch
+jobs:
+  first_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: simpleprint
+        run: echo "Hello World!"
+      
