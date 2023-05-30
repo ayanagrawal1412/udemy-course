@@ -1,4 +1,4 @@
-name: Ayan
+name: first-workflow
 on: workflow_dispatch
 jobs:
   first_job:
